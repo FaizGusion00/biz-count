@@ -1,0 +1,8 @@
+{
+  "name": "BizCount",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3b1bf265"
+}
